@@ -1,2 +1,2 @@
 # gitskills
-my first add text.
+my first add text a.
